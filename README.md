@@ -1,5 +1,5 @@
- ## Author - AKSHIT 
- ## Rolll no - 2501730020
+ ## Author - DISHU
+ ## Rolll no - 2501730126
  ## course - btech cse ai and ml 
  ## section -E 
 
@@ -77,3 +77,4 @@ Clean typography with Google Fonts
 Balanced spacing and margins
 
 Defined color theme
+
